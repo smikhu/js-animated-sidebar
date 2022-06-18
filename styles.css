@@ -6,6 +6,7 @@ body {
 #mainbox {
     font-size: 24px;
     cursor: pointer;
+    transition: all .6s;
 }
 
 .sidemenu {
@@ -18,6 +19,7 @@ body {
     z-index: 1;
     padding-top: 100px;
     overflow-x: hidden;
+    transition: all .5s;
 }
 
 .sidemenu a {
